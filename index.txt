@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Glenio D Borges
+Glenio D Borges
+Solutions Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+glenioborges@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (917) 353-4673
 
 Birthday
-June 23, 1982
+August 19, 1980
 
 Location
-Sacramento, California, USA
+Morristown, NJ
 
 # navbar
 
